@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://images.pexels.com/photos/4033296/pexels-photo-4033296.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+  }
+  .land {
+    position: initial;
+    width: 100%;
+  
+    top: 45%;
+  }
+  .la {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 50%;
+  }
+  h4 {
+    padding: 1rem;
+    text-decoration-line: underline;
+  }
+  .la h3 {
+    padding: 1rem;
+    font-size: 500%;
+    font-family: "Caveat", cursive;
+    background: #f5c27e;
+    background: -webkit-linear-gradient(to right, #f5c27e 0%, #6de0e0 100%);
+    background: -moz-linear-gradient(to right, #f5c27e 0%, #6de0e0 100%);
+    background: linear-gradient(to right, #f5c27e 0%, #6de0e0 100%);
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .join {
+    background-color: rgba(8, 22, 22, 0.5);
+  
+    border-radius: 15px;
+    padding: 1rem;
+    text-align: center;
+    margin-left: 2rem;
+  }
+  .join a {
+    font-family: "Caveat", cursive;
+    font-size: 500%;
+    align-items: center;
+    color: white;
+    padding: 10px;
+  }
+  
+  .join:hover {
+    background-color: rgba(4, 22, 22, 0.9);
+  }
+
+  
